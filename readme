@@ -1,8 +1,6 @@
-<h1>PowerPoint Presentation Generator</h1>
+# PowerPoint Presentation Generator
 
-<p align="center">
-  A Streamlit app that generates PowerPoint presentations using OpenAI's model.
-</p>
+A Streamlit app that generates PowerPoint presentations using OpenAI's model.
 
 ## Overview
 
@@ -10,7 +8,7 @@ This application allows you to generate PowerPoint presentations on a given topi
 
 ## Features
 
-- Dynamically generates slide titles and contents using Openai.
+- Dynamically generates slide titles and contents using OpenAI.
 - Streamlit interface for easy interaction.
 - Customizable font sizes for title and slide content.
 - Saves generated presentations as downloadable PowerPoint files.
@@ -34,5 +32,3 @@ To run this application locally, follow these steps:
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, enhancements, or bug fixes, feel free to open an issue or create a pull request.
-
-
