@@ -1,0 +1,38 @@
+<h1 align="center">PowerPoint Presentation Generator</h1>
+
+<p align="center">
+  A Streamlit app that generates PowerPoint presentations using OpenAI's model.
+</p>
+
+## Overview
+
+This application allows you to generate PowerPoint presentations on a given topic by leveraging the power of OpenAI's model. It dynamically creates slide titles and contents based on the provided topic, offering a quick and convenient way to generate presentation materials.
+
+## Features
+
+- Dynamically generates slide titles and contents using Openai.
+- Streamlit interface for easy interaction.
+- Customizable font sizes for title and slide content.
+- Saves generated presentations as downloadable PowerPoint files.
+
+## How to Use
+
+1. Enter the topic for your presentation.
+2. Click on the "Generate Presentation" button.
+3. Wait for the presentation to be generated.
+4. Download the generated PowerPoint presentation.
+
+## Installation
+
+To run this application locally, follow these steps:
+
+1. Clone this repository.
+2. Install the required dependencies using `pip install -r requirements.txt`.
+3. Set up your OpenAI API key and other environment variables as specified in the `.env` file.
+4. Run the Streamlit app using `streamlit run app.py`.
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, enhancements, or bug fixes, feel free to open an issue or create a pull request.
+
+
